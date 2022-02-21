@@ -13,7 +13,7 @@
 }
 
 .just-right{
-    justify-content: right;
+    justify-content: flex-end;
 }
 
 .al-middle{
@@ -22,6 +22,14 @@
 
 .al-bottom{
     align-items: flex-end;
+}
+
+.space-around{
+    justify-content: space-around;
+}
+
+.space-between{
+    justify-content: space-between;
 }
 
 .col-1{

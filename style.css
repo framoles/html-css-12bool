@@ -27,3 +27,27 @@
     color: white;
     padding: 10px;
 }
+
+.just-center{
+    justify-content: center;
+}
+
+.just-right{
+    justify-content: flex-end;
+}
+
+.al-middle{
+    align-items: center;
+}
+
+.al-bottom{
+    align-items: flex-end;
+}
+
+.space-around{
+    justify-content: space-around;
+}
+
+.space-between{
+    justify-content: space-between;
+}

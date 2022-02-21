@@ -8,6 +8,13 @@
     flex-flow: row wrap;
 }
 
+.just-center{
+    justify-content: center;
+}
+
+.just-right{
+    justify-content: right;
+}
 .col-1{
     flex-basis: calc(100% / 12);
 }

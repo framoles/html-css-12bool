@@ -17,6 +17,10 @@
     height: 50px;
 }
 
+.h100px{
+    height: 100px;
+}
+
 .row div{
     text-align: center;
     border: 1px solid white;
